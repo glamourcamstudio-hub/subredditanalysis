@@ -1,4 +1,0 @@
-streamlit
-praw
-groq
-pandas
